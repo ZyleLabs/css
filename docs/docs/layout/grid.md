@@ -2,6 +2,8 @@ import './grid.style.scss';
 
 # Grid
 
+## Basics
+
 <div class='zyle-preview'>
 	<div class='columns'>
 		<div class='column'>
